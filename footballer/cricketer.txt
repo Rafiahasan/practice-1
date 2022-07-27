@@ -1,3 +1,4 @@
 Kohli is a batsman.
 Hardik is a alrounder.
 Shami is a bowler.
+sky is a good player.
